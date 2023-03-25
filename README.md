@@ -1,5 +1,5 @@
 # EjercicioDeLasPruebas
-## Mi repositorio es 
+## Mi repositorio es https://github.com/diegofdxz/EjercicioDeLasPruebas.git
 
 1. Enunciado
  Debe escribir:
